@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@gordov-andrey/ajs_3_1": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+ }
+ 
+}
